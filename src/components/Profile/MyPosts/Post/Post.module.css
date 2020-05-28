@@ -1,0 +1,12 @@
+.item {
+    color: rgb(255, 255, 255);
+}
+
+.item img {
+    height: 70px;
+    border-radius: 30px;
+}
+
+.item div {
+    display: inline-block;
+}

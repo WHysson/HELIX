@@ -1,0 +1,7 @@
+.header {
+    grid-area: header;
+    background-color: green;
+}
+.item {
+    height: 70px;
+}
